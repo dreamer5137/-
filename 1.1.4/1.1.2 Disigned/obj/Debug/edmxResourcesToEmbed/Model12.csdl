@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="БИЗЬНЕСь_ИР311Model1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Apartament">
+    <Key>
+      <PropertyRef Name="ID_Apartaments" />
+    </Key>
+    <Property Name="ID_Apartaments" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="HouseID" Type="Int32" Nullable="false" />
+    <Property Name="Number" Type="Int32" Nullable="false" />
+    <Property Name="Area" Type="Decimal" Precision="18" Scale="1" Nullable="false" />
+    <Property Name="CountOfRooms" Type="Int32" Nullable="false" />
+    <Property Name="Section" Type="Int32" Nullable="false" />
+    <Property Name="Floor" Type="Int32" Nullable="false" />
+    <Property Name="IsSold" Type="Int32" Nullable="false" />
+    <Property Name="BuildingCost" Type="Int32" Nullable="false" />
+    <Property Name="ApartmentValueAdded" Type="Int32" Nullable="false" />
+    <Property Name="IsDeleted" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="House" Relationship="Self.FK_Apartaments_House" FromRole="Apartaments" ToRole="House" />
+  </EntityType>
+  <EntityType Name="House">
+    <Key>
+      <PropertyRef Name="ID_House" />
+    </Key>
+    <Property Name="ID_House" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ResidentialComplexID" Type="Int32" Nullable="false" />
+    <Property Name="Street" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Number" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="BuildingCost" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="HouseValueAdded" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="IsDeleted" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Apartaments" Relationship="Self.FK_Apartaments_House" FromRole="House" ToRole="Apartaments" />
+    <NavigationProperty Name="ResidentialComplex" Relationship="Self.FK_House_ResidentialComplex" FromRole="House" ToRole="ResidentialComplex" />
+  </EntityType>
+  <EntityType Name="ResidentialComplex">
+    <Key>
+      <PropertyRef Name="ID_ResidentialComplex" />
+    </Key>
+    <Property Name="ID_ResidentialComplex" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="City" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Status" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="BuildingCost" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="ComplexValueAdded" Type="Int32" Nullable="false" />
+    <Property Name="IsDeleted" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Houses" Relationship="Self.FK_House_ResidentialComplex" FromRole="ResidentialComplex" ToRole="House" />
+  </EntityType>
+  <EntityType Name="rez33">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="НаименованиеЖК" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="Дом" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="Квартира" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="Прибыль" Type="Decimal" Precision="19" Scale="4" />
+  </EntityType>
+  <EntityType Name="rez1">
+    <Key>
+      <PropertyRef Name="Name" />
+      <PropertyRef Name="PriBIL" />
+    </Key>
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PriBIL" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
+  </EntityType>
+  <EntityType Name="rez2">
+    <Key>
+      <PropertyRef Name="Название_ЖК" />
+      <PropertyRef Name="Дом" />
+      <PropertyRef Name="Прибыль" />
+    </Key>
+    <Property Name="Название_ЖК" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Дом" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Прибыль" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Apartaments_House">
+    <End Role="House" Type="Self.House" Multiplicity="1" />
+    <End Role="Apartaments" Type="Self.Apartament" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="House">
+        <PropertyRef Name="ID_House" />
+      </Principal>
+      <Dependent Role="Apartaments">
+        <PropertyRef Name="HouseID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_House_ResidentialComplex">
+    <End Role="ResidentialComplex" Type="Self.ResidentialComplex" Multiplicity="1" />
+    <End Role="House" Type="Self.House" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ResidentialComplex">
+        <PropertyRef Name="ID_ResidentialComplex" />
+      </Principal>
+      <Dependent Role="House">
+        <PropertyRef Name="ResidentialComplexID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="БИЗЬНЕСь_ИР311Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Apartaments" EntityType="Self.Apartament" />
+    <EntitySet Name="Houses" EntityType="Self.House" />
+    <EntitySet Name="ResidentialComplexes" EntityType="Self.ResidentialComplex" />
+    <EntitySet Name="rez33" EntityType="Self.rez33" />
+    <EntitySet Name="rez1" EntityType="Self.rez1" />
+    <EntitySet Name="rez2" EntityType="Self.rez2" />
+    <AssociationSet Name="FK_Apartaments_House" Association="Self.FK_Apartaments_House">
+      <End Role="House" EntitySet="Houses" />
+      <End Role="Apartaments" EntitySet="Apartaments" />
+    </AssociationSet>
+    <AssociationSet Name="FK_House_ResidentialComplex" Association="Self.FK_House_ResidentialComplex">
+      <End Role="ResidentialComplex" EntitySet="ResidentialComplexes" />
+      <End Role="House" EntitySet="Houses" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

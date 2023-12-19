@@ -1,0 +1,202 @@
+W:\!Личная\Практика 3курс1сем\DA\1\bin\Debug\1.exe.config
+W:\!Личная\Практика 3курс1сем\DA\1\bin\Debug\1.exe
+W:\!Личная\Практика 3курс1сем\DA\1\bin\Debug\1.pdb
+W:\!Личная\Практика 3курс1сем\DA\1\obj\Debug\1.csproj.AssemblyReference.cache
+W:\!Личная\Практика 3курс1сем\DA\1\obj\Debug\1.csproj.SuggestedBindingRedirects.cache
+W:\!Личная\Практика 3курс1сем\DA\1\obj\Debug\Main.g.cs
+W:\!Личная\Практика 3курс1сем\DA\1\obj\Debug\MainWindow.g.cs
+W:\!Личная\Практика 3курс1сем\DA\1\obj\Debug\App.g.cs
+W:\!Личная\Практика 3курс1сем\DA\1\obj\Debug\1_MarkupCompile.cache
+W:\!Личная\Практика 3курс1сем\DA\1\obj\Debug\1_MarkupCompile.lref
+W:\!Личная\Практика 3курс1сем\DA\1\obj\Debug\Main.baml
+W:\!Личная\Практика 3курс1сем\DA\1\obj\Debug\MainWindow.baml
+W:\!Личная\Практика 3курс1сем\DA\1\obj\Debug\1.g.resources
+W:\!Личная\Практика 3курс1сем\DA\1\obj\Debug\_1.Properties.Resources.resources
+W:\!Личная\Практика 3курс1сем\DA\1\obj\Debug\1.csproj.GenerateResource.cache
+W:\!Личная\Практика 3курс1сем\DA\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+W:\!Личная\Практика 3курс1сем\DA\1\obj\Debug\1.exe
+W:\!Личная\Практика 3курс1сем\DA\1\obj\Debug\1.pdb
+W:\!Личная\ПРАКТИКА 3 КУРС\1\obj\Debug\1.csproj.AssemblyReference.cache
+W:\!Личная\ПРАКТИКА 3 КУРС\1\obj\Debug\1.csproj.SuggestedBindingRedirects.cache
+W:\!Личная\ПРАКТИКА 3 КУРС\1\obj\Debug\ЖК.g.cs
+W:\!Личная\ПРАКТИКА 3 КУРС\1\obj\Debug\Main.g.cs
+W:\!Личная\ПРАКТИКА 3 КУРС\1\obj\Debug\MainWindow.g.cs
+W:\!Личная\ПРАКТИКА 3 КУРС\1\obj\Debug\ЖК_Подробно.g.cs
+W:\!Личная\ПРАКТИКА 3 КУРС\1\obj\Debug\ЖК_Подробно_Редакт.g.cs
+W:\!Личная\ПРАКТИКА 3 КУРС\1\obj\Debug\App.g.cs
+W:\!Личная\ПРАКТИКА 3 КУРС\1\obj\Debug\1_Content.g.cs
+W:\!Личная\ПРАКТИКА 3 КУРС\1\obj\Debug\1_MarkupCompile.cache
+W:\!Личная\ПРАКТИКА 3 КУРС\1\obj\Debug\1_MarkupCompile.lref
+W:\!Личная\ПРАКТИКА 3 КУРС\1\obj\Debug\ЖК.baml
+W:\!Личная\ПРАКТИКА 3 КУРС\1\obj\Debug\Main.baml
+W:\!Личная\ПРАКТИКА 3 КУРС\1\obj\Debug\MainWindow.baml
+W:\!Личная\ПРАКТИКА 3 КУРС\1\obj\Debug\ЖК_Подробно.baml
+W:\!Личная\ПРАКТИКА 3 КУРС\1\obj\Debug\ЖК_Подробно_Редакт.baml
+W:\!Личная\ПРАКТИКА 3 КУРС\1\obj\Debug\1.g.resources
+W:\!Личная\ПРАКТИКА 3 КУРС\1\obj\Debug\_1.Properties.Resources.resources
+W:\!Личная\ПРАКТИКА 3 КУРС\1\obj\Debug\1.csproj.GenerateResource.cache
+W:\!Личная\ПРАКТИКА 3 КУРС\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+W:\!Личная\ПРАКТИКА 3 КУРС\1\obj\Debug\1.exe
+W:\!Личная\ПРАКТИКА 3 КУРС\1\obj\Debug\1.pdb
+F:\!\DA\1.1\bin\Debug\1.exe.config
+F:\!\DA\1.1\bin\Debug\1.exe
+F:\!\DA\1.1\bin\Debug\1.pdb
+F:\!\DA\1.1\bin\Debug\EntityFramework.dll
+F:\!\DA\1.1\bin\Debug\EntityFramework.SqlServer.dll
+F:\!\DA\1.1\bin\Debug\EntityFramework.xml
+F:\!\DA\1.1\bin\Debug\EntityFramework.SqlServer.xml
+F:\!\DA\1.1\bin\Debug\ru\EntityFramework.resources.dll
+F:\!\DA\1.1\obj\Debug\1.csproj.AssemblyReference.cache
+F:\!\DA\1.1\obj\Debug\1.csproj.SuggestedBindingRedirects.cache
+F:\!\DA\1.1\obj\Debug\ЖК.g.cs
+F:\!\DA\1.1\obj\Debug\Main.g.cs
+F:\!\DA\1.1\obj\Debug\MainWindow.g.cs
+F:\!\DA\1.1\obj\Debug\ЖК_Подробно.g.cs
+F:\!\DA\1.1\obj\Debug\ЖК_Подробно_Редакт.g.cs
+F:\!\DA\1.1\obj\Debug\App.g.cs
+F:\!\DA\1.1\obj\Debug\1_Content.g.cs
+F:\!\DA\1.1\obj\Debug\1_MarkupCompile.cache
+F:\!\DA\1.1\obj\Debug\1_MarkupCompile.lref
+F:\!\DA\1.1\obj\Debug\ЖК.baml
+F:\!\DA\1.1\obj\Debug\Main.baml
+F:\!\DA\1.1\obj\Debug\MainWindow.baml
+F:\!\DA\1.1\obj\Debug\ЖК_Подробно.baml
+F:\!\DA\1.1\obj\Debug\ЖК_Подробно_Редакт.baml
+F:\!\DA\1.1\obj\Debug\1.g.resources
+F:\!\DA\1.1\obj\Debug\_1.Properties.Resources.resources
+F:\!\DA\1.1\obj\Debug\1.csproj.GenerateResource.cache
+F:\!\DA\1.1\obj\Debug\1.csproj.CoreCompileInputs.cache
+F:\!\DA\1.1\obj\Debug\1.csproj.CopyComplete
+F:\!\DA\1.1\obj\Debug\1.exe
+F:\!\DA\1.1\obj\Debug\1.pdb
+F:\!\DA\1.1 beta\obj\Debug\1.csproj.AssemblyReference.cache
+F:\!\DA\1.1 beta\obj\Debug\1.csproj.SuggestedBindingRedirects.cache
+F:\!\DA\1.1 beta\obj\Debug\Rachet.g.cs
+F:\!\DA\1.1 beta\obj\Debug\ЖК.g.cs
+F:\!\DA\1.1 beta\obj\Debug\Main.g.cs
+F:\!\DA\1.1 beta\obj\Debug\MainWindow.g.cs
+F:\!\DA\1.1 beta\obj\Debug\ЖК_Подробно.g.cs
+F:\!\DA\1.1 beta\obj\Debug\ЖК_Подробно_Редакт.g.cs
+F:\!\DA\1.1 beta\obj\Debug\App.g.cs
+F:\!\DA\1.1 beta\obj\Debug\1_Content.g.cs
+F:\!\DA\1.1 beta\obj\Debug\1_MarkupCompile.cache
+F:\!\DA\1.1 beta\obj\Debug\1_MarkupCompile.lref
+F:\!\DA\1.1 beta\obj\Debug\1.exe
+F:\!\DA\1.1 beta\obj\Debug\1.pdb
+F:\!\DA\1.1 beta\bin\Debug\1.exe.config
+F:\!\DA\1.1 beta\bin\Debug\1.exe
+F:\!\DA\1.1 beta\bin\Debug\1.pdb
+F:\!\DA\1.1 beta\bin\Debug\EntityFramework.dll
+F:\!\DA\1.1 beta\bin\Debug\EntityFramework.SqlServer.dll
+F:\!\DA\1.1 beta\bin\Debug\EntityFramework.xml
+F:\!\DA\1.1 beta\bin\Debug\EntityFramework.SqlServer.xml
+F:\!\DA\1.1 beta\bin\Debug\ru\EntityFramework.resources.dll
+F:\!\DA\1.1 beta\obj\Debug\ЖК.baml
+F:\!\DA\1.1 beta\obj\Debug\Main.baml
+F:\!\DA\1.1 beta\obj\Debug\MainWindow.baml
+F:\!\DA\1.1 beta\obj\Debug\ЖК_Подробно.baml
+F:\!\DA\1.1 beta\obj\Debug\ЖК_Подробно_Редакт.baml
+F:\!\DA\1.1 beta\obj\Debug\Rachet.baml
+F:\!\DA\1.1 beta\obj\Debug\1.g.resources
+F:\!\DA\1.1 beta\obj\Debug\_1.Properties.Resources.resources
+F:\!\DA\1.1 beta\obj\Debug\1.csproj.GenerateResource.cache
+F:\!\DA\1.1 beta\obj\Debug\1.csproj.CoreCompileInputs.cache
+F:\!\DA\1.1 beta\obj\Debug\1.csproj.CopyComplete
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\bin\Debug\1.exe.config
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\bin\Debug\1.exe
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\bin\Debug\1.pdb
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\bin\Debug\EntityFramework.dll
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\bin\Debug\EntityFramework.SqlServer.dll
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\bin\Debug\EntityFramework.xml
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\bin\Debug\EntityFramework.SqlServer.xml
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\bin\Debug\ru\EntityFramework.resources.dll
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\1.csproj.AssemblyReference.cache
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\1.csproj.SuggestedBindingRedirects.cache
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\Rachet.g.cs
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\ЖК.g.cs
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\Main.g.cs
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\MainWindow.g.cs
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\ЖК_Подробно.g.cs
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\ЖК_Подробно_Редакт.g.cs
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\App.g.cs
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\1_Content.g.cs
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\1_MarkupCompile.cache
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\1_MarkupCompile.lref
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\Rachet.baml
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\ЖК.baml
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\Main.baml
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\MainWindow.baml
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\ЖК_Подробно.baml
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\ЖК_Подробно_Редакт.baml
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\1.g.resources
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\_1.Properties.Resources.resources
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\1.csproj.GenerateResource.cache
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\1.csproj.CoreCompileInputs.cache
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\1.csproj.CopyComplete
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\1.exe
+W:\!Личная\Практика 3курс1сем\DA\1.1.2\obj\Debug\1.pdb
+D:\Практика 3курс1сем\1.1.2 Disigned\obj\Debug\1.csproj.AssemblyReference.cache
+D:\Практика 3курс1сем\1.1.2 Disigned\obj\Debug\1.csproj.SuggestedBindingRedirects.cache
+D:\Практика 3курс1сем\1.1.2 Disigned\obj\Debug\Rachet.g.cs
+D:\Практика 3курс1сем\1.1.2 Disigned\obj\Debug\Дома.g.cs
+D:\Практика 3курс1сем\1.1.2 Disigned\obj\Debug\Дома_Подробно.g.cs
+D:\Практика 3курс1сем\1.1.2 Disigned\obj\Debug\Дома_Подробно_Редакт.g.cs
+D:\Практика 3курс1сем\1.1.2 Disigned\obj\Debug\ЖК.g.cs
+D:\Практика 3курс1сем\1.1.2 Disigned\obj\Debug\Main.g.cs
+D:\Практика 3курс1сем\1.1.2 Disigned\obj\Debug\MainWindow.g.cs
+D:\Практика 3курс1сем\1.1.2 Disigned\obj\Debug\ЖК_Подробно.g.cs
+D:\Практика 3курс1сем\1.1.2 Disigned\obj\Debug\ЖК_Подробно_Редакт.g.cs
+D:\Практика 3курс1сем\1.1.2 Disigned\obj\Debug\Квартиры.g.cs
+D:\Практика 3курс1сем\1.1.2 Disigned\obj\Debug\Квартиры_Подробно.g.cs
+D:\Практика 3курс1сем\1.1.2 Disigned\obj\Debug\Квартиры_Подробно_Редакт.g.cs
+D:\Практика 3курс1сем\1.1.2 Disigned\obj\Debug\App.g.cs
+D:\Практика 3курс1сем\1.1.2 Disigned\obj\Debug\1_MarkupCompile.cache
+D:\Практика 3курс1сем\1.1.2 Disigned\obj\Debug\1_MarkupCompile.lref
+D:\Практика 3курс1сем\1.1.2 Disigned\obj\Debug\1.exe
+D:\Практика 3курс1сем\1.1.2 Disigned\obj\Debug\1.pdb
+D:\Практика 3курс1сем\1.1.2 Disigned\obj\Debug\1_Content.g.cs
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\1.csproj.AssemblyReference.cache
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\Rachet.g.cs
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\Дома.g.cs
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\Дома_Подробно.g.cs
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\Дома_Подробно_Редакт.g.cs
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\ЖК.g.cs
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\Main.g.cs
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\MainWindow.g.cs
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\ЖК_Подробно.g.cs
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\ЖК_Подробно_Редакт.g.cs
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\Квартиры.g.cs
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\Квартиры_Подробно.g.cs
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\Квартиры_Подробно_Редакт.g.cs
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\App.g.cs
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\1_Content.g.cs
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\1_MarkupCompile.cache
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\1_MarkupCompile.lref
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\1.csproj.SuggestedBindingRedirects.cache
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\bin\Debug\1.exe.config
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\bin\Debug\1.exe
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\bin\Debug\1.pdb
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\bin\Debug\EntityFramework.dll
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\bin\Debug\EntityFramework.SqlServer.dll
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\bin\Debug\EntityFramework.xml
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\bin\Debug\EntityFramework.SqlServer.xml
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\bin\Debug\ru\EntityFramework.resources.dll
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\Rachet.baml
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\Дома.baml
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\Дома_Подробно.baml
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\Дома_Подробно_Редакт.baml
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\ЖК.baml
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\Main.baml
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\MainWindow.baml
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\ЖК_Подробно.baml
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\ЖК_Подробно_Редакт.baml
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\Квартиры.baml
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\Квартиры_Подробно.baml
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\Квартиры_Подробно_Редакт.baml
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\1.g.resources
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\_1.Properties.Resources.resources
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\1.csproj.GenerateResource.cache
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\1.csproj.CoreCompileInputs.cache
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\1.csproj.CopyComplete
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\1.exe
+E:\Практика 3курс1сем\1.1.3 D\1.1.2 Disigned\obj\Debug\1.pdb

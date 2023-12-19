@@ -1,0 +1,44 @@
+﻿<Page x:Class="_1.Дома_Подробно_Редакт"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:_1"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Дома_Подробно_Редакт">
+
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="4*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="Комплекс" HorizontalAlignment="Center" VerticalAlignment="Center" Height="24" Width="100" FontFamily="Comic Sans MS" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <Label Content="Улица" HorizontalAlignment="Center" Grid.Row="1" VerticalAlignment="Center" Height="24" Width="46" FontFamily="Comic Sans MS" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <Label Content="Номер" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" Height="26" Width="68" FontFamily="Comic Sans MS" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <Label Content="Стоимость строительства" HorizontalAlignment="Center" Grid.Row="3" VerticalAlignment="Center" Width="150" FontFamily="Comic Sans MS" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <Label Content="Наценка" HorizontalAlignment="Center" Grid.Row="4" VerticalAlignment="Center" Width="68" FontFamily="Comic Sans MS" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <TextBox x:Name="txtNum" Grid.Column="1" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Center" Width="120" FontFamily="Comic Sans MS" Grid.Row="2"/>
+            <TextBox x:Name="txtStreet" Grid.Column="1" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Center" Width="120" Grid.Row="1" FontFamily="Comic Sans MS"/>
+            <ComboBox x:Name="cmbComplex" Grid.Column="1" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" Width="120" FontFamily="Comic Sans MS"/>
+            <TextBox x:Name="txtBuildCost" Grid.Column="1" HorizontalAlignment="Center" Margin="0,0,0,0" Grid.Row="3" TextWrapping="Wrap" VerticalAlignment="Center" Width="120" FontFamily="Comic Sans MS"/>
+            <Button x:Name="save" Grid.Column="1" Content="Сохранить" HorizontalAlignment="Center" Grid.Row="5" VerticalAlignment="Center" FontFamily="Comic Sans MS" Background="#FFF7F2E0" BorderBrush="#FFF7F2E0" Click="save_Click">
+                <Button.Effect>
+                    <DropShadowEffect Color="#FFCAC7B0" BlurRadius="15"/>
+                </Button.Effect>
+            </Button>
+            <TextBox x:Name="txtCost" Grid.Column="1" HorizontalAlignment="Center" Margin="0,0,0,0" Grid.Row="4" TextWrapping="Wrap" VerticalAlignment="Center" Width="120" FontFamily="Comic Sans MS"/>
+        </Grid>
+
+    </Grid>
+</Page>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище БИЗЬНЕСь_ИР311ModelContainer" CdmEntityContainer="БИЗЬНЕСь_ИР311Entities">
+    <EntitySetMapping Name="Apartaments">
+      <EntityTypeMapping TypeName="БИЗЬНЕСь_ИР311Model.Apartament">
+        <MappingFragment StoreEntitySet="Apartaments">
+          <ScalarProperty Name="ID_Apartaments" ColumnName="ID_Apartaments" />
+          <ScalarProperty Name="HouseID" ColumnName="HouseID" />
+          <ScalarProperty Name="Number" ColumnName="Number" />
+          <ScalarProperty Name="Area" ColumnName="Area" />
+          <ScalarProperty Name="CountOfRooms" ColumnName="CountOfRooms" />
+          <ScalarProperty Name="Section" ColumnName="Section" />
+          <ScalarProperty Name="Floor" ColumnName="Floor" />
+          <ScalarProperty Name="IsSold" ColumnName="IsSold" />
+          <ScalarProperty Name="apartmentC" ColumnName="apartmentC" />
+          <ScalarProperty Name="ApartmentValueAdded" ColumnName="ApartmentValueAdded" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Houses">
+      <EntityTypeMapping TypeName="БИЗЬНЕСь_ИР311Model.House">
+        <MappingFragment StoreEntitySet="House">
+          <ScalarProperty Name="ID_House" ColumnName="ID_House" />
+          <ScalarProperty Name="ResidentialComplexID" ColumnName="ResidentialComplexID" />
+          <ScalarProperty Name="Street" ColumnName="Street" />
+          <ScalarProperty Name="Number" ColumnName="Number" />
+          <ScalarProperty Name="houseC" ColumnName="houseC" />
+          <ScalarProperty Name="HouseValueAdded" ColumnName="HouseValueAdded" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ResidentialComplexes">
+      <EntityTypeMapping TypeName="БИЗЬНЕСь_ИР311Model.ResidentialComplex">
+        <MappingFragment StoreEntitySet="ResidentialComplex">
+          <ScalarProperty Name="ID_ResidentialComplex" ColumnName="ID_ResidentialComplex" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="complexC" ColumnName="complexC" />
+          <ScalarProperty Name="ComplexValueAdded" ColumnName="ComplexValueAdded" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="rez33">
+      <EntityTypeMapping TypeName="БИЗЬНЕСь_ИР311Model.rez33">
+        <MappingFragment StoreEntitySet="rez33">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="НаименованиеЖК" ColumnName="НаименованиеЖК" />
+          <ScalarProperty Name="Дом" ColumnName="Дом" />
+          <ScalarProperty Name="Квартира" ColumnName="Квартира" />
+          <ScalarProperty Name="Прибыль" ColumnName="Прибыль" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="rez1">
+      <EntityTypeMapping TypeName="БИЗЬНЕСь_ИР311Model.rez1">
+        <MappingFragment StoreEntitySet="rez1">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="PriBIL" ColumnName="PriBIL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="rez2">
+      <EntityTypeMapping TypeName="БИЗЬНЕСь_ИР311Model.rez2">
+        <MappingFragment StoreEntitySet="rez2">
+          <ScalarProperty Name="Название_ЖК" ColumnName="Название_ЖК" />
+          <ScalarProperty Name="Дом" ColumnName="Дом" />
+          <ScalarProperty Name="Прибыль" ColumnName="Прибыль" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="ChangeApar" FunctionName="Хранилище БИЗЬНЕСь_ИР311Model.ChangeApar" />
+    <FunctionImportMapping FunctionImportName="ChangeHome" FunctionName="Хранилище БИЗЬНЕСь_ИР311Model.ChangeHome" />
+    <FunctionImportMapping FunctionImportName="ChangeResident" FunctionName="Хранилище БИЗЬНЕСь_ИР311Model.ChangeResident" />
+    <FunctionImportMapping FunctionImportName="DelApar" FunctionName="Хранилище БИЗЬНЕСь_ИР311Model.DelApar" />
+    <FunctionImportMapping FunctionImportName="DelHome" FunctionName="Хранилище БИЗЬНЕСь_ИР311Model.DelHome" />
+    <FunctionImportMapping FunctionImportName="DelResident" FunctionName="Хранилище БИЗЬНЕСь_ИР311Model.DelResident" />
+    <FunctionImportMapping FunctionImportName="InsertApar" FunctionName="Хранилище БИЗЬНЕСь_ИР311Model.InsertApar" />
+    <FunctionImportMapping FunctionImportName="InsertHome" FunctionName="Хранилище БИЗЬНЕСь_ИР311Model.InsertHome" />
+    <FunctionImportMapping FunctionImportName="InsertResident" FunctionName="Хранилище БИЗЬНЕСь_ИР311Model.InsertResident" />
+    <FunctionImportMapping FunctionImportName="RachetHome2" FunctionName="Хранилище БИЗЬНЕСь_ИР311Model.RachetHome2" />
+    <FunctionImportMapping FunctionImportName="RachetKV3" FunctionName="Хранилище БИЗЬНЕСь_ИР311Model.RachetKV3" />
+    <FunctionImportMapping FunctionImportName="RachetZk1" FunctionName="Хранилище БИЗЬНЕСь_ИР311Model.RachetZk1" />
+  </EntityContainerMapping>
+</Mapping>
